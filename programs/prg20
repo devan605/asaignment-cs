@@ -11,6 +11,6 @@ int main()
    num=num/10;
   }
   printf("revised number:%d",rev);
-  reurn 0;
+  return 0;
 }  
    
